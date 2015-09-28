@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\finalSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Users\zhanglinlin\BaiduMapTest2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-6b3a9770085a7a47249dbc21fbfb5f4bbed87e2f.jar" />
+    </item>
+    <item
+        jar="E:\Users\zhanglinlin\BaiduMapTest2\app\libs\baidumapapi_v2_3_1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e12700dafafab27c2866174f4d8d32f33a8d708c">
+        <dex dex="E:\Users\zhanglinlin\BaiduMapTest2\app\build\intermediates\pre-dexed\debug\baidumapapi_v2_3_1-f160f9e55ff0c3f71ceeec44c006322686afae53.jar" />
+    </item>
+
+</items>
